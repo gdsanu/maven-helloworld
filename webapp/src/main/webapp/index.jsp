@@ -9,3 +9,5 @@
 
 <h1> Dockerfile created and try to deploy on container...</h1>
 
+<h1> Deploying on container using Ansible....</h1>
+
